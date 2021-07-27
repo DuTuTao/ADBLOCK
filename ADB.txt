@@ -1,8 +1,9 @@
-
-
-
+!NEW
 
 ||nhattruyenhay.com^$popup,third-party
+nhattruyenhay.com###ctl00_divCenter > div.reading > div.container.text-center.mrb5:nth-child(2) > a > img
+
+
 !-----------
 [Adblock Plus 2.0]
 ! Last modified: 27 Jul 2021 19:31 UTC+7
