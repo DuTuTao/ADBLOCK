@@ -1230,3 +1230,8 @@ www.gaingon18.me###iklan-atas-wrapper
 youtubeporn.pro##div[style^="position:fixed;inset:0px;z-index:100000;"]
 youtubeporn.pro,hls.playerfb.xyz###video_player ~ div[id]
 ! --- Hot fix rule for content blocker (ABP for Samsung internet, Adguard Content Blocker)
+
+
+!Vu-List
+nettruyen*.com###ctl00_divCenter > div.reading > div.container:nth-child(4) > div.row.visible-mobile:first-child
+nettruyen*.com###ctl00_divCenter > div.reading > div.container:nth-child(4) > div.row.visible-mobile:last-child
