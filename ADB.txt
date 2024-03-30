@@ -656,7 +656,7 @@ metruyencv.info,metruyencv.net,metruyencv.com##.nh-read__alert
 metruyencv.info,metruyencv.net,metruyencv.com##.tpm-unit
 metruyencv.info,metruyencv.net,metruyencv.com##[href$="/goout/lazada"]
 metruyencv.info,metruyencv.net,metruyencv.com##section.nh-section:nth-of-type(5)
-metruyencv.info,metruyencv.net,metruyencv.com#?#.text-center:-abp-has(small:-abp-contains(QU?NG CÁO))
+metruyencv.info,metruyencv.net,metruyencv.com#?#.text-center:-abp-has(small:-abp-contains(QU?NG CÃO))
 minhngoc.net.vn,vn-z.vn,kinhtedothi.vn##[id^="adv"]
 mn.mediastation.live##.btn-bottom-right-append-player
 mn.mediastation.live##.images-bnr-bellow-append-custom
@@ -1235,3 +1235,4 @@ youtubeporn.pro,hls.playerfb.xyz###video_player ~ div[id]
 !Vu-List
 nettruyen*.com###ctl00_divCenter > div.reading > div.container:nth-child(4) > div.row.visible-mobile:first-child
 nettruyen*.com###ctl00_divCenter > div.reading > div.container:nth-child(4) > div.row.visible-mobile:last-child
+rikvip.gif
